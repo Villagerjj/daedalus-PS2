@@ -4,32 +4,40 @@ DaedalusX64 is a Nintendo 64 emulator for Linux and PSP, with plans to port to W
  
 ## Features:
  
-- Fast emulation
-- High compatibility
-- Support for PSP TV Mode with 480p output!
-- Active support and updates
-- Lots of experimental optimizations
- 
-And more!
- 
+- Lots of bugs and issue, this is an initial Proof-of-Concept (may never get better)
+- No Sound
+- Distorted Graphics in many games (if they boot)
+- Most games will not work or contain serious issues
+- Many other things..
+
+## Compatibility list
+
+#boots
+- Super Mario 64 (2)
+- Ridge Racer 64
+
+#Does not boot
+- GoldenEye 007
+- Star Fox 64
+- The Legend of Zelda - Majora's Mask
+
 ## Usage
- 
-To install Daedalus to your PSP, download the latest release from the Releases page: https://github.com/DaedalusX64/daedalus/releases
- 
-Next, plug your PSP into your computer and navigate to /PSP/GAME/. Create a folder called "daedalus" there, and place the EBOOT.PBP file inside. Place your ROM files in daedalus/Roms/ and they will automatically appear in Daedalus.
- 
-Note: If the release is a ZIP file with a folder containing an EBOOT.PBP file when extracted, simply drag and drop the extracted folder into /PSP/GAME/.
+
+Download the release from the "Releases" tab.
+Put files/folders (of download) on root directory of mass,
+looks for roms in 'Roms' directory.
  
 ## More Info
  
-For information about compatibility, optimal settings and more about the emulator, visit the actively maintained GitHub wiki page: https://github.com/DaedalusX64/daedalus/wiki Feel free to submit reports for how well your favourite games run if they have not already been listed!
- 
-Join our Discord server to talk to other Daedalus users and the developers!
+For information about compatibility, optimal settings and more about the emulator,
+Join the offical Discord server to talk to other Daedalus users and the developers!
  
 Invite link: https://discord.gg/FrVTpBV
+
+NOTE: PS2 IS NOT SUPPORTED OFFICIALLY!!!
  
 ## Credits
- 
+- belek666: Original PS2 port
 - kreationz, salvy6735, Corn, Chilly Willy: Original DaedalusX64 code
 - Wally: Optimizations, improvements and ports
 - z2442: Compilation improvements and updating, optimizations
