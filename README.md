@@ -4,7 +4,7 @@ DaedalusX64 is a Nintendo 64 emulator for Linux and PSP, with plans to port to W
  
 ## Features:
  
-- Lots of bugs and issue, this is an initial Proof-of-Concept (may never get better)
+- Lots of bugs and issues, this is an initial Proof-of-Concept (may never get better)
 - No Sound
 - Distorted Graphics in many games (if they boot)
 - Most games will not work or contain serious issues
