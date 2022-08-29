@@ -21,11 +21,11 @@ In the future I might learn how to tinker with this, but it may not be for a ver
 
 ## Compatibility list
 
-#boots
+boots
 - Super Mario 64
 - Ridge Racer 64
 
-#Does not boot
+Does not boot
 - GoldenEye 007
 - Star Fox 64
 - The Legend of Zelda - Majora's Mask
