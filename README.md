@@ -1,7 +1,16 @@
 # DaedalusX64
  
 DaedalusX64 is a Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms. The PSP port is noteworthy for being the fastest N64 emulator ever on the platform, achieving close to or even full speed in many titles.
- 
+
+## DISCLAIMER!!!!
+
+I am NOT a PS2 Programmer, I am just reformatting the PS2 Port of Daedalus for future reference!
+(I am a GB dev tho) 
+
+In the future I might learn how to tinker with this, but it may not be for a very long time. 
+
+
+
 ## Features:
  
 - Lots of bugs and issues, this is an initial Proof-of-Concept (may never get better)
@@ -13,7 +22,7 @@ DaedalusX64 is a Nintendo 64 emulator for Linux and PSP, with plans to port to W
 ## Compatibility list
 
 #boots
-- Super Mario 64 (2)
+- Super Mario 64
 - Ridge Racer 64
 
 #Does not boot
